@@ -12,7 +12,7 @@
 
 #### option A: manually
 
-Download the desired [colourscheme files](https://github.com/nightsense/vim-crunchbang/tree/master/colors) and place in directory `~/.vim/colors/` (Linux/Mac) or `%userprofile%\vimfiles\colors\` (Windows).
+Download the [colourscheme file](https://github.com/nightsense/vim-crunchbang/tree/master/colors) and place in directory `~/.vim/colors/` (Linux/Mac) or `%userprofile%\vimfiles\colors\` (Windows).
 
 #### option B: using a plugin manager
 
