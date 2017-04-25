@@ -1,6 +1,6 @@
 # vim-crunchbang
 
-[**CrunchBang**](https://distrowatch.com/table.php?distribution=crunchbang) (now [BunsenLabs](https://www.bunsenlabs.org/)) was a lightweight Linux operating system with a sharp, modern grey colour scheme.
+[**CrunchBang**](https://distrowatch.com/table.php?distribution=crunchbang) (now [BunsenLabs](https://www.bunsenlabs.org/)) was a lightweight Linux operating system with a handsome modern grey colour scheme.
 
 **vim-crunchbang** is a Vim (and terminal) theme comprised of CrunchBang greys and complementary muted accent colours.
 
