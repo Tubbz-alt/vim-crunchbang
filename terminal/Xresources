@@ -1,9 +1,9 @@
 #define S_grey1 #2e3436
 #define S_grey2 #3b4245
 #define S_grey3 #999999
-#define S_grey4 #adadad
+#define S_grey4 #acacac
 #define S_grey5 #bfbfbf
-#define S_grey6 #dbdbdb
+#define S_grey6 #dfdfdf
 #define S_grey7 #e6e6e6
 #define S_grey8 #ffffff
 

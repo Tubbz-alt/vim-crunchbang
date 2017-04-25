@@ -8,9 +8,9 @@ These are the Vim commands applied to the [flattened_dark](https://github.com/ro
 %s/002b36/2e3436/g |
 %s/073642/3b4245/g |
 %s/586e75/999999/g |
-%s/657b83/adadad/g |
+%s/657b83/acacac/g |
 %s/839496/bfbfbf/g |
-%s/93a1a1/dbdbdb/g |
+%s/93a1a1/dfdfdf/g |
 %s/eee8d5/e6e6e6/g |
 %s/fdf6e3/ffffff/g |
 
@@ -33,7 +33,7 @@ These are the Vim commands applied to the [flattened_dark](https://github.com/ro
 
 54s/ctermfg=14/ctermfg=10/ |
 54s/ctermbg=0/ctermbg=8/ |
-54s/guifg=#dbdbdb/guifg=#999999/ |
+54s/guifg=#dfdfdf/guifg=#999999/ |
 54s/guibg=#3b4245/guibg=#2e3436/ |
 
 call append(321,["",
