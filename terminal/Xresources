@@ -7,9 +7,9 @@
 #define S_grey7 #e6e6e6
 #define S_grey8 #ffffff
 
-*background:  S_grey8
-*foreground:  S_grey4
-*cursorColor: S_grey3
+*background:  S_grey1
+*foreground:  S_grey5
+*cursorColor: S_grey6
 
 *color8:  S_grey1
 *color0:  S_grey2
