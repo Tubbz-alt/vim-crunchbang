@@ -6,7 +6,7 @@ The first theme features a background with slight (5%) translucency, like the ba
 
 ```
 gsettings set org.pantheon.terminal.settings background 'rgba(46, 52, 54, 0.95)'
-gsettings set org.pantheon.terminal.settings foreground '#dfdfdf'
+gsettings set org.pantheon.terminal.settings foreground '#bfbfbf'
 gsettings set org.pantheon.terminal.settings cursor-color '#bfbfbf'
 gsettings set org.pantheon.terminal.settings palette '#3b4245:#c48d93:#6fa868:#ab9a6a:#75a0bd:#c48d93:#68a6a8:#dfdfdf:#999999:#bf9277:#6fa868:#ab9a6a:#75a0bd:#bd8ea1:#68a6a8:#a793c4'
 ```
@@ -15,7 +15,7 @@ gsettings set org.pantheon.terminal.settings palette '#3b4245:#c48d93:#6fa868:#a
 
 ```
 gsettings set org.pantheon.terminal.settings background '#2e3436'
-gsettings set org.pantheon.terminal.settings foreground '#dfdfdf'
+gsettings set org.pantheon.terminal.settings foreground '#bfbfbf'
 gsettings set org.pantheon.terminal.settings cursor-color '#bfbfbf'
 gsettings set org.pantheon.terminal.settings palette '#3b4245:#c48d93:#6fa868:#ab9a6a:#75a0bd:#c48d93:#68a6a8:#dfdfdf:#999999:#bf9277:#6fa868:#ab9a6a:#75a0bd:#bd8ea1:#68a6a8:#a793c4'
 ```
