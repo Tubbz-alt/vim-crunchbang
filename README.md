@@ -28,6 +28,6 @@ For Neovim, add `set termguicolors` to enable truecolour support.
 
 In order for vim-crunchbang to work properly in terminal Vim, set the terminal's colours to match.
 
-As of now, this repository provides the following [terminal configuration files](https://github.com/nightsense/crunchbang/tree/master/terminal):
-- [`Xresources`](https://github.com/nightsense/crunchbang/tree/master/terminal/Xresources) file for **xterm** and **urxvt** (Linux)
-- [`gsettings`](https://github.com/nightsense/crunchbang/tree/master/terminal/pantheon-terminal.md) 'command blocks' for **pantheon-terminal** (elementary OS)
+As of now, this repository provides the following [terminal configuration files](https://github.com/nightsense/vim-crunchbang/tree/master/terminal):
+- [`Xresources`](https://github.com/nightsense/vim-crunchbang/tree/master/terminal/Xresources) file for **xterm** and **urxvt** (Linux)
+- [`gsettings`](https://github.com/nightsense/vim-crunchbang/tree/master/terminal/pantheon-terminal.md) 'command blocks' for **pantheon-terminal** (elementary OS)
