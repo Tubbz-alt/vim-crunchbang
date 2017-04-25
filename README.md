@@ -4,7 +4,7 @@
 
 **vim-crunchbang** is a theme for Vim (and the terminal) made up of CrunchBang greys and complementary muted accent colours.
 
-<img src="img/screenshot.png" alt="screenshot of vim-crunchbang, a cool grey vim theme" width="256">
+<img src="screenshot.png" alt="screenshot of vim-crunchbang, a cool grey vim theme" width="256">
 
 ## installation
 
