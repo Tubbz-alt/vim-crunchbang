@@ -31,3 +31,5 @@ In order for vim-crunchbang to work properly in terminal Vim, set the terminal's
 As of now, this repository provides the following [terminal configuration files](https://github.com/nightsense/vim-crunchbang/tree/master/terminal):
 - [`Xresources`](https://github.com/nightsense/vim-crunchbang/tree/master/terminal/Xresources) file for **xterm** and **urxvt** (Linux)
 - [`gsettings`](https://github.com/nightsense/vim-crunchbang/tree/master/terminal/pantheon-terminal.md) 'command blocks' for **pantheon-terminal** (elementary OS)
+
+For **gnome-terminal**, see [this repository](https://github.com/nightsense/gnome-terminal-colours-crunchbang).
