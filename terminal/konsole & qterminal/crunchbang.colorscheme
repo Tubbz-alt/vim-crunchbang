@@ -1,0 +1,96 @@
+# INSTALLATION
+#
+# To install this theme in Konsole or QTerminal, download this theme file and
+# move it to the appropriate directory. (Create the directory if necessary.)
+#
+# For Konsole, one of the following directories should work:
+# ~/.kde4/share/apps/konsole/
+# ~/.kde/share/apps/konsole/
+#
+# For QTerminal, one of the following directories should work:
+# ~/.config/qterminal.org/color-schemes/
+# /usr/share/qtermwidget5/color-schemes/
+
+[Color0]
+Color=59,66,69
+Transparency=false
+
+[Color0Intense]
+Color=46,52,54
+Transparency=false
+
+[Color1]
+Color=196,141,147
+Transparency=false
+
+[Color1Intense]
+Color=191,146,119
+Transparency=false
+
+[Color2]
+Color=111,168,104
+Transparency=false
+
+[Color2Intense]
+Color=153,153,153
+Transparency=false
+
+[Color3]
+Color=171,154,106
+Transparency=false
+
+[Color3Intense]
+Color=172,172,172
+Transparency=false
+
+[Color4]
+Color=117,160,189
+Transparency=false
+
+[Color4Intense]
+Color=191,191,191
+Transparency=false
+
+[Color5]
+Color=189,142,161
+Transparency=false
+
+[Color5Intense]
+Color=167,147,196
+Transparency=false
+
+[Color6]
+Color=104,166,168
+Transparency=false
+
+[Color6Intense]
+Color=223,223,223
+Transparency=false
+
+[Color7]
+Color=230,230,230
+Transparency=false
+
+[Color7Intense]
+Color=255,255,255
+Transparency=false
+
+[Background]
+Color=46,52,54
+Transparency=false
+
+[BackgroundIntense]
+Color=59,66,69
+Transparency=false
+
+[Foreground]
+Color=191,191,191
+Transparency=false
+
+[ForegroundIntense]
+Color=223,223,223
+Transparency=false
+
+[General]
+Description=crunchbang
+Opacity=1

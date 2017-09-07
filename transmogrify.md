@@ -55,3 +55,45 @@ Each block of above code alters the original colour scheme in the following ways
   - current line number text
   - status line text and background
 - a credit comment block is appended
+
+## rgb replacement
+
+These commands are used to transmogrify [Solarized Konsole](https://github.com/phiggins/konsole-colors-solarized) into the crunchbang Konsole/QTerminal theme.
+
+```
+%s/0,43,54/46,52,54/g |
+%s/7,54,66/59,66,69/g |
+%s/88,110,117/153,153,153/g |
+%s/101,123,131/172,172,172/g |
+%s/131,148,150/191,191,191/g |
+%s/147,161,161/223,223,223/g |
+%s/238,232,213/230,230,230/g |
+%s/253,246,227/255,255,255/g |
+
+%s/220,50,47/196,141,147/g |
+%s/203,75,22/191,146,119/g |
+%s/181,137,0/171,154,106/g |
+%s/133,153,0/111,168,104/g |
+%s/42,161,152/104,166,168/g |
+%s/38,139,210/117,160,189/g |
+%s/108,113,196/167,147,196/g |
+%s/211,54,130/189,142,161/g
+```
+
+## gnome-terminal
+
+These commands are used to transmogrify [one-gnome-terminal](https://github.com/denysdovhan/one-gnome-terminal) into the crunchbang gnome-terminal install script.
+
+```
+%s/002b36/2e3436/g |
+%s/657b83/acacac/g |
+%s/93a1a1/dfdfdf/g |
+%s/fdf6e3/ffffff/g |
+
+%s/dc322f/c48d93/g |
+%s/b58900/ab9a6a/g |
+%s/859900/6fa868/g |
+%s/2aa198/68a6a8/g |
+%s/268bd2/75a0bd/g |
+%s/6c71c4/a793c4/g
+```
