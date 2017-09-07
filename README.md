@@ -33,4 +33,4 @@ As of now, this repository provides the following [terminal configuration files]
 - [`.colorscheme`](https://github.com/nightsense/vim-crunchbang/tree/master/terminal/konsole%20%26%20qterminal) file for **Konsole** and **QTerminal** (Linux)
 - [`gsettings`](https://github.com/nightsense/vim-crunchbang/tree/master/terminal/pantheon-terminal.md) 'command blocks' for **pantheon-terminal** (elementary OS)
 
-For **GNOME Terminal**, run the [install script](https://github.com/nightsense/crunchbang/tree/master/terminal/gnome-terminal) to create a "profile" for the crunchbang theme. Then select the profile with the right-click menu, or set it as default via Edit > Preferences > Profiles.
+For **GNOME Terminal**, run the [install script](https://github.com/nightsense/vim-crunchbang/tree/master/terminal/gnome-terminal) to create a "profile" for the crunchbang theme. Then select the profile with the right-click menu, or set it as default via Edit > Preferences > Profiles.
